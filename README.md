@@ -1,0 +1,1 @@
+Just use ./run.py or python run.py
